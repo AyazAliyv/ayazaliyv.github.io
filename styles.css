@@ -23,13 +23,33 @@ header {
     height: 100px;
 }
 
-nav {
+header p {
     background-color: #ddd;
     padding: 10px;
+    margin: 10px auto;
+    width: 80%;
+    text-align: center;
+    border-radius: 10px;
 }
 
 section {
     padding: 20px;
+}
+
+.skill-item {
+    background-color: #ddd;
+    padding: 10px;
+    margin-bottom: 10px;
+    border-radius: 10px;
+    display: flex;
+    align-items: center;
+}
+
+.skill-item img {
+    border-radius: 50%;
+    width: 100px;
+    height: 100px;
+    margin-right: 10px;
 }
 
 footer {
@@ -37,9 +57,4 @@ footer {
     color: white;
     text-align: center;
     padding: 10px;
-}
-
-ul {
-    list-style-type: none;
-    padding: 0;
 }
