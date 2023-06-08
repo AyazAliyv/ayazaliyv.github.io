@@ -1,4 +1,4 @@
-#Brief Story
+# Brief Story
 
 Researchers are actively working on identifying the complex relationship between GDP per capita, happiness and life satisfaction (Aral & Bakir, 2022; Proto & Rustichini, 2014). 
 It is essential to deeply understand this relationship because of scientific and policy perspectives (Proto & Rustichini, 2013). From a scientific perspective, the debate is important because it helps to understand how income affects life satisfaction and happiness in order to develop policies that can improve the quality of life for citizens. From a policy perspective, the debate is important because it can help to inform policy decisions (Proto & Rustichini, 2013). If higher income is associated with higher life satisfaction and happiness, then policies that focus on increasing income may be more effective in improving the quality of life for citizens.
